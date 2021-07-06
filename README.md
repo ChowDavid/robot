@@ -1,6 +1,6 @@
 # Toy Robot Code Challenage
 ## Developer: David Chow
-### Requirment : Java 1.8, Maven 
+### Requirement : Java 1.8, Maven 
 ### Test
 ```aidl
 mvn clean test
